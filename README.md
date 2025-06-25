@@ -25,6 +25,7 @@ Created reusable views and subqueries to support downstream analysis and visuali
 
 🔗  View SQL Script https://github.com/Larajayi/Churn_Analysis/blob/main/churn%20analysis%20project.txt
 
+
 2. 📊 Data Visualization – Power BI
 Imported the cleaned dataset into Power BI and developed an interactive dashboard.
 
@@ -58,4 +59,6 @@ Tenure group (e.g., new customers more likely to churn)
 Enabled data-driven decision-making for retention strategies.
 
 Established a strong foundation for predictive modeling and future customer segmentation initiatives.
+![Screenshot 2025-06-25 132813](https://github.com/user-attachments/assets/6a29a084-c499-40fc-9407-66ce40010f55)
+
 
