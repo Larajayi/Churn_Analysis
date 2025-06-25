@@ -45,7 +45,7 @@ Tenure groupings
 
 Added filters and drill-downs to support business-user interactivity.
 
-🔗  View Power BI Reporthttps://github.com/Larajayi/Churn_Analysis/blob/main/Churn%20Analysis.pbix
+🔗  View Power BI Report https://github.com/Larajayi/Churn_Analysis/blob/main/Churn%20Analysis.pbix
 
 📈 Outcome
 Successfully identified high-risk customer profiles based on:
