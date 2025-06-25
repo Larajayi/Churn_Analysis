@@ -23,7 +23,7 @@ Key customer segments
 
 Created reusable views and subqueries to support downstream analysis and visualization.
 
-🔗
+🔗  View SQL Script https://github.com/Larajayi/Churn_Analysis/blob/main/churn%20analysis%20project.txt
 
 2. 📊 Data Visualization – Power BI
 Imported the cleaned dataset into Power BI and developed an interactive dashboard.
@@ -44,7 +44,7 @@ Tenure groupings
 
 Added filters and drill-downs to support business-user interactivity.
 
-🔗https://github.com/Larajayi/Churn_Analysis/blob/main/Churn%20Analysis.pbix
+🔗  View Power BI Reporthttps://github.com/Larajayi/Churn_Analysis/blob/main/Churn%20Analysis.pbix
 
 📈 Outcome
 Successfully identified high-risk customer profiles based on:
